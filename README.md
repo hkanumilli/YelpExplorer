@@ -1,8 +1,8 @@
-# Yelp Explorer
+# YelpExplorer
 
-Interactive query tool for Yelp data. Built using Bokeh and the Yelp Fusion API. 
+An Interactive query tool for Yelp data. 
 
-A credibility metric was introduced that combines a business's rating and review count ensuring that a 5-star establishment with 1000 reviews gets more weight than a 5-star establishment with 20 reviews. 
+A credibility metric makes sure a 5-star establishment with 1000 reviews gets more weight than a 5-star establishment with 20 reviews. 
 
 To run:
 1. Clone and download repository.
